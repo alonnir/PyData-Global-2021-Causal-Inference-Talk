@@ -1,5 +1,5 @@
 # PyData-Global-2021-Causal-Inference-Talk
-Slides and code for "Sliding Into Causal Inference" talk
+Slides and code for my "Sliding Into Causal Inference" talk.
 
+Video will be added when available online.
 
-This is a placeholder for the slides, code and video of my upcoming PyData Global talk. Stay tuned!
