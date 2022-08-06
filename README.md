@@ -1,5 +1,8 @@
-# PyData-Global-2021-Causal-Inference-Talk
+# Sliding into Causal Inference, with Python! - Alon Nir | PyData Global 2021
+
 Slides and code for my "Sliding Into Causal Inference" talk.
 
-Video will be added when available online.
+Video of the talk available here:<br>
+[![Watch the video](cover_image.png)](https://youtu.be/l4gY0JM3J5I?t=0)
+
 
