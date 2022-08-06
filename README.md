@@ -6,5 +6,6 @@ Video of the talk available here:<br>
 [![Watch the video](cover_image.png)](https://youtu.be/l4gY0JM3J5I?t=0)
 
 <br>
+
 > "10/10 best causal inference presentation on the internet" 
-_- My mom_
+_-My mom_
